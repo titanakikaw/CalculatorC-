@@ -1,0 +1,17 @@
+C:\Users\marvin.orsua\source\repos\PRACTICE\PRACTICE\bin\Debug\net6.0-windows\PRACTICE.exe
+C:\Users\marvin.orsua\source\repos\PRACTICE\PRACTICE\bin\Debug\net6.0-windows\PRACTICE.deps.json
+C:\Users\marvin.orsua\source\repos\PRACTICE\PRACTICE\bin\Debug\net6.0-windows\PRACTICE.runtimeconfig.json
+C:\Users\marvin.orsua\source\repos\PRACTICE\PRACTICE\bin\Debug\net6.0-windows\PRACTICE.dll
+C:\Users\marvin.orsua\source\repos\PRACTICE\PRACTICE\bin\Debug\net6.0-windows\PRACTICE.pdb
+C:\Users\marvin.orsua\source\repos\PRACTICE\PRACTICE\obj\Debug\net6.0-windows\PRACTICE.csproj.AssemblyReference.cache
+C:\Users\marvin.orsua\source\repos\PRACTICE\PRACTICE\obj\Debug\net6.0-windows\PRACTICE.Form1.resources
+C:\Users\marvin.orsua\source\repos\PRACTICE\PRACTICE\obj\Debug\net6.0-windows\PRACTICE.csproj.GenerateResource.cache
+C:\Users\marvin.orsua\source\repos\PRACTICE\PRACTICE\obj\Debug\net6.0-windows\PRACTICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvin.orsua\source\repos\PRACTICE\PRACTICE\obj\Debug\net6.0-windows\PRACTICE.AssemblyInfoInputs.cache
+C:\Users\marvin.orsua\source\repos\PRACTICE\PRACTICE\obj\Debug\net6.0-windows\PRACTICE.AssemblyInfo.cs
+C:\Users\marvin.orsua\source\repos\PRACTICE\PRACTICE\obj\Debug\net6.0-windows\PRACTICE.csproj.CoreCompileInputs.cache
+C:\Users\marvin.orsua\source\repos\PRACTICE\PRACTICE\obj\Debug\net6.0-windows\PRACTICE.dll
+C:\Users\marvin.orsua\source\repos\PRACTICE\PRACTICE\obj\Debug\net6.0-windows\refint\PRACTICE.dll
+C:\Users\marvin.orsua\source\repos\PRACTICE\PRACTICE\obj\Debug\net6.0-windows\PRACTICE.pdb
+C:\Users\marvin.orsua\source\repos\PRACTICE\PRACTICE\obj\Debug\net6.0-windows\PRACTICE.genruntimeconfig.cache
+C:\Users\marvin.orsua\source\repos\PRACTICE\PRACTICE\obj\Debug\net6.0-windows\ref\PRACTICE.dll
